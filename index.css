@@ -147,8 +147,6 @@ section {
   width: 100px;
   color: #111;
   margin-right: 5px;
-  padding-left: 2rem;
-  padding-right: 2.4rem;
 }
 
 .infor {
@@ -156,8 +154,6 @@ section {
   background-color: gray;
   opacity: 0.8;
   color: #fff;
-  padding-left: 2rem;
-  padding-right: 2.4rem;
 }
 
 h3 {
@@ -192,7 +188,6 @@ h3 {
   gap: 0.5em;
   display: grid;
   grid-template-columns: 350px 350px 350px 350px 350px;
-  column-gap: 10px;
 }
 
 .videoList img {
